@@ -1,6 +1,8 @@
 Local Market
 ============
 
+Hosted at shopkart.meteor.com
+
 Local Market is an open source app powered by Meteor and made by [Percolate Studio](http://percolatestudio.com). In this example app we explore intermediate techniques:
 
   - Using a sample database to generate lists and items
