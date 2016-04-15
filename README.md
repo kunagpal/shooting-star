@@ -1,7 +1,10 @@
+[![Code Climate](https://codeclimate.com/github/kunagpal/shooting-star/badges/gpa.svg)](https://codeclimate.com/github/kunagpal/shooting-star)
+[![Issue Count](https://codeclimate.com/github/kunagpal/shooting-star/badges/issue_count.svg)](https://codeclimate.com/github/kunagpal/shooting-star)
+
 Local Market
 ============
 
-Hosted at shopkart.meteor.com
+Hosted at https://starshoot.herokuapp.com/
 
 Local Market is an open source app powered by Meteor and made by [Percolate Studio](http://percolatestudio.com). In this example app we explore intermediate techniques:
 
@@ -9,4 +12,4 @@ Local Market is an open source app powered by Meteor and made by [Percolate Stud
   - Integrating OAUTH with Meteor's accounts-ui package
   - Cordova integration to use device phone and GPS
   - Mobile UI & UX
-  
+
