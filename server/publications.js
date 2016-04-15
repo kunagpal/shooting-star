@@ -31,4 +31,4 @@ Meteor.publish(null, function() {
       'services.twitter.profile_image_url_https': 1
     }
   });
-})
+});
