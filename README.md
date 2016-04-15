@@ -4,7 +4,7 @@
 Local Market
 ============
 
-Hosted at [here](https://starshoot.herokuapp.com)
+Hosted [here](https://starshoot.herokuapp.com)
 
 A Meteor app made by [Percolate Studio](http://percolatestudio.com)
 In this example app we explore intermediate techniques:
