@@ -5,4 +5,4 @@ Template.feed.helpers({
   ready: function() {
     return Router.current().feedSubscription.ready();
   }
-})
+});

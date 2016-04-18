@@ -22,7 +22,7 @@ Overlay = {
   data: function () {
     return Session.get(DATA_KEY);
   }
-}
+};
 
 Template.overlay.onRendered(function() {
   this.find('#overlay-hook')._uihooks = {
@@ -54,7 +54,7 @@ Template.overlay.helpers({
   template: function() {
     return Overlay.template();
   },
-  
+
   data: function() {
     return Overlay.data();
   }
